@@ -28,7 +28,3 @@ I'm solving HackerRank challenges to practice problem-solving, data structures, 
 ## 💻 Languages Used
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-> *Table updated as new solutions are added.*
-
-
-#update repo hackerrank
